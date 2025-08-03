@@ -30,8 +30,8 @@ This application leverages **Gemini AI**, **CrewAI agents**, and **OCR** to anal
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/<your-username>/medical-report-analyzer.git
-cd medical-report-analyzer
+git clone https://github.com/Saswata-pal/multi-agent-medical-report-analyzer
+cd multi-agent-medical-report-analyzer
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
