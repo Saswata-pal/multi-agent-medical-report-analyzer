@@ -1,0 +1,10 @@
+crewai
+streamlit
+openai
+python-dotenv
+PyMuPDF
+langchain
+pytesseract
+pdf2image
+Pillow
+scikit-learn
